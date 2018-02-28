@@ -1,12 +1,10 @@
 # iso8601
 [![Build Status][travis-badge]][travis]
 [![Tag][tag-badge]][tag]
-[![Erlang Version][erl-badge]][erl]
-[![Downloads][hex downloads]][hex package]
+
 
 *An ISO 8601 date formating and parsing library for Erlang*
 
-[![iso8601 project logo][logo]][logo-large]
 
 
 #### Contents
