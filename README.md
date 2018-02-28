@@ -1,5 +1,5 @@
 # iso8601
-[![Build Status][https://travis-ci.org/luob1215/test.svg?branch=master]][travis]
+[![Build Status](https://travis-ci.org/luob1215/test.svg?branch=master)](https://travis-ci.org/luob1215/test)
 [![Tag][tag-badge]][tag]
 [![Erlang Version][erl-badge]][erl]
 [![Downloads][hex downloads]][hex package]
