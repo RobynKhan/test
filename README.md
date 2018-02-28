@@ -1,5 +1,5 @@
 # iso8601
-[![Build Status](https://travis-ci.org/luob1215/test.svg?branch=master)](https://travis-ci.org/luob1215/test)
+[![Build Status][travis-badge]][travis]
 [![Tag][tag-badge]][tag]
 [![Erlang Version][erl-badge]][erl]
 [![Downloads][hex downloads]][hex package]
@@ -119,8 +119,8 @@ Copyright © 2016-2017, Erlang-Aided Enrichment Center
 
 <!-- Named page links below: /-->
 
-[travis]: https://travis-ci.org/erlsci/iso8601
-[travis-badge]: https://travis-ci.org/erlsci/iso8601.png?branch=master
+[travis]: https://travis-ci.org/luob1215/test
+[travis-badge]: https://travis-ci.org/luob1215/test.svg?branch=master
 [tag]: https://github.com/erlsci/iso8601/releases/latest
 [tag-badge]: https://img.shields.io/github/tag/erlsci/iso8601.svg
 [erl]: http://www.erlang.org/downloads
